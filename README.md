@@ -1,4 +1,4 @@
-# Infosec-Meetups-Conf.
+# Infosec Meetups & Conferences
 [Infosec Github Repos.](https://github.com/Infosec-Community)
 
 ## India
